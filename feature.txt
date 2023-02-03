@@ -1,1 +1,6 @@
+<<<<<<< HEAD
 feature v.0.1.1
+=======
+feature v.0.1.1
+!!!
+>>>>>>> development
